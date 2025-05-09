@@ -1,1 +1,21 @@
-# unit_bmi270_module
+# UNIT BMI270 Inertial Sensor Module
+
+The **BMI270** is a 6 degrees of freedom (6DoF) inertial sensor. It integrates a low-power accelerometer and high-performance gyroscope in a compact package, making it ideal for wearables, IoT devices, and motion detection systems.
+
+This module is designed to work easily with microcontrollers, offering both **I2C** and **SPI** interfaces, along with configurable interrupt and auxiliary pins.
+
+<a href="#"><img src="hardware/resources/bmi_top.jpg" width="500px"><br/> UNIT BMI270 Sensor Module</a>
+
+## 🔍 Applications of the UNIT BMI270
+
+| Application                       | Description                                           |
+|-----------------------------------|-------------------------------------------------------|
+| **Activity monitoring**           | Detects motion, step counting, and body orientation.  |
+| **Game controllers**              | Uses tilt and orientation for real-time interaction.  |
+| **Sports tracking**               | Logs physical movements for performance analysis.     |
+| **Gesture detection**             | Recognizes gestures like wrist lift or twist.         |
+| **Logistics motion sensing**      | Monitors movement or impact in packages.              |
+| **Mobile robotics**               | Provides inertial data for navigation and balance.    |
+| **Smart home automation**         | Activates functions via motion or orientation.        |
+
+
