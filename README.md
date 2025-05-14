@@ -1,4 +1,4 @@
-# UNIT BMI270 Inertial Sensor Module
+# BMI270 Inertial Sensor Module
 
 The **BMI270** is a `6 degrees of freedom (6DoF)` inertial sensor. It integrates a low-power accelerometer and high-performance gyroscope in a compact package, making it ideal for wearables, IoT devices, and motion detection systems.
 
