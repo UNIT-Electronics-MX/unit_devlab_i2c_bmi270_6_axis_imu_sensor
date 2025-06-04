@@ -1,6 +1,6 @@
 # Hardware
 
-<a href="#"><img src="resources/Schematics_icon.jpg" width="450px"><br/> Schematic</a>
+<a href="#"><img src="./Schematics_icon.jpg" width="450px"><br/> Schematic</a>
 
 ## Pinout
 
