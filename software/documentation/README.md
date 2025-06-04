@@ -19,7 +19,6 @@ The UNIT BMI270 is a 6-axis inertial measurement module that integrates a 3-axis
 
 The BMI270 sensor module combines a 16-bit accelerometer and a 16-bit gyroscope to deliver precise measurements of linear acceleration and angular velocity. It is highly suitable for applications requiring accurate motion tracking. The module allows flexible communication with microcontrollers via selectable I2C or SPI interfaces. Auxiliary and interrupt pins are available for gesture, activity, or tap detection, enhancing its integration in wearables, robotics, and interactive systems.
 
-## Electrical Characteristics & Signal Overview
 
 ## Electrical Characteristics & Signal Overview
 
