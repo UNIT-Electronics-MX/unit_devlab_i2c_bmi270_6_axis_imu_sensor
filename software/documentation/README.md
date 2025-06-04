@@ -3,7 +3,7 @@ title: "UNIT BMI270 Module"
 version: "1.0"
 modified: "2025-05-08"
 output: "unit_bmi270_module"
-subtitle: "6-axis Inertial Sensor Module with I2C/SPI Interface and Low Power Design"
+subtitle: "6-axis Inertial Sensor Module with I2C or SPI Interface and Low Power Design"
 ---
 
 

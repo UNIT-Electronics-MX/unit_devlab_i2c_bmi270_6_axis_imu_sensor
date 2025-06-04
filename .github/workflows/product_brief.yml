@@ -78,9 +78,14 @@ jobs:
 
     - name: Scan PDF for secrets
       run: |
-        if grep -aEi 'AKIA|api[_-]?key|secret|token|Authorization|password' software/documentation/build/*.pdf; then
-          echo " Potential secret detected in PDF"
+        sudo apt-get install -y poppler-utils
+        extracted=$(pdftotext software/documentation/build/*.pdf - | grep -aEi 'AKIA|api[_-]?key|secret|token|Authorization|password' || true)
+        if [ -n "$extracted" ]; then
+          echo "Potential secret detected in extracted PDF text:"
+          echo "$extracted"
           exit 1
+        else
+          echo "No secrets detected in PDF text."
         fi
 
     - name: Move PDF to root docs/ for GitHub Pages
