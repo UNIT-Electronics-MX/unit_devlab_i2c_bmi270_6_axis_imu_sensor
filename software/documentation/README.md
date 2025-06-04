@@ -1,3 +1,12 @@
+---
+title: "UNIT BMI270 Module"
+version: "1.0"
+modified: "2025-05-08"
+output: "unit_bmi270_module"
+subtitle: "6-axis Inertial Sensor Module with I2C/SPI Interface and Low Power Design"
+---
+
+
 # UNIT BMI270 Module
 
 ![product](images/top.png)
@@ -12,6 +21,8 @@ The BMI270 sensor module combines a 16-bit accelerometer and a 16-bit gyroscope 
 
 ## Electrical Characteristics & Signal Overview
 
+## Electrical Characteristics & Signal Overview
+
 - Operating voltage: 3.3V (typical)
 - Communication interfaces: I2C (up to 1 MHz), SPI (up to 10 MHz)
 - Accelerometer range: +/-2g / +/-4g / +/-8g / +/-16g
@@ -19,6 +30,7 @@ The BMI270 sensor module combines a 16-bit accelerometer and a 16-bit gyroscope 
 - Low current consumption: approx. 850 uA in full operation
 - Interrupt output: Active-low, open-drain
 - Logic level: 3.3V compatible
+
 
 ## Applications
 
