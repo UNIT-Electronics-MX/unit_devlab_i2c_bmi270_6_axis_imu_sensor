@@ -1,13 +1,22 @@
 # Hardware
 
-<a href="#"><img src="./Schematics_icon.jpg" width="450px"><br/> Schematic</a>
+<div align="center">
+
+<a href="#"><img src="resources/Schematics_icon.jpg" width="450px"><br/> Schematic</a>
+
+</div>
 
 ## Pinout
 
-<a href="#"><img src="resources/bmi270-pinout.jpg" width="450px"><br/> Pinout</a>
+<div align="center">
+
+<a href="#"><img src="resources/unit_pinout_v_0_0_2_ue0068_bmi270_en.png" width="450px"><br/> Pinout</a>
+
+</div>
 
 ## Description
 
+<div align="center">
 
 | Pin        | Label     | Description                                 | Typical Use                                                               |
 |------------|-----------|---------------------------------------------|---------------------------------------------------------------------------|
@@ -24,6 +33,8 @@
 | **VCC**    | VCC       | Power supply                                | Connect to 3.3 V                                                          |
 | **GND**    | GND       | Ground                                      | Connect to system ground.                                                 |
 
+</div>
+
 ---
 
 ## Interface-Selection Jumpers
@@ -37,4 +48,8 @@
 
 ## Dimensions
 
-<a href="#"><img src="hardware/resources/bmp_top.jpg" width="450px"><br/> Dimensions</a>
+<div align="center">
+
+<a href="#"><img src="resources/unit_dimension_v_1_0_ue0068_bmi270.png" width="450px"><br/> Dimensions</a>
+
+</div>
