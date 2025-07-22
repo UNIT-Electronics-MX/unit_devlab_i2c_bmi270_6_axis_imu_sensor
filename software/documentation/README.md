@@ -103,7 +103,7 @@ Works with:
 
 ## Downloads
 
-- [Schematic PDF](../hardware/unit_sch_V_0_0_1_ue0068_bmi270.pdf)
+- [Schematic PDF](https://github.com/UNIT-Electronics-MX/unit_bmi270_module/tree/main/hardware)
 
 ## Purchase
 
