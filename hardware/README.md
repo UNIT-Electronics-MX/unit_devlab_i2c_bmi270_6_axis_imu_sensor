@@ -1,26 +1,10 @@
 # Hardware
 
-<<<<<<< HEAD
-<div align="center">
-
-<a href="#"><img src="resources/Schematics_icon.jpg" width="450px"><br/> Schematic</a>
-
-</div>
-
-## Pinout
-
-<div align="center">
-
-<a href="#"><img src="resources/unit_pinout_v_0_0_2_ue0068_bmi270_en.png" width="450px"><br/> Pinout</a>
-
-</div>
-=======
 <a href="#"><img src="./resources/Schematics_icon.jpg" width="450px"><br/> Schematic</a>
 
 ## Pinout
 
 <a href="#"><img src="./resources/unit_pinout_v_1_0_ue0068_bmi270.jpg" width="450px"><br/> Pinout</a>
->>>>>>> 6a68ec7f1ed46a6156590b8eb957735786fe51cf
 
 ## Description
 
@@ -56,13 +40,6 @@
 
 ## Dimensions
 
-<<<<<<< HEAD
-<div align="center">
-
-<a href="#"><img src="resources/unit_dimension_v_1_0_ue0068_bmi270.png" width="450px"><br/> Dimensions</a>
-
-</div>
-=======
 <a href="#"><img src="./resources/unit_dimension_v_1_0_ue0068_bmi270.png" width="500px"><br/> Dimensions</a>
 
 ## Topology
@@ -79,4 +56,3 @@
 | J1    | Low-power I2C QWIIC JST Connector                                           |
 | JP1   | 2.54mm Header                                                               |
 | JP2   | 2.54mm Header                                                               |
->>>>>>> 6a68ec7f1ed46a6156590b8eb957735786fe51cf
