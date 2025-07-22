@@ -3,8 +3,7 @@
 <a href="#"><img src="./resources/Schematics_icon.jpg" width="450px"><br/> Schematic</a>
 
 ## Pinout
-
-<a href="#"><img src="./resources/unit_pinout_v_1_0_ue0068_bmi270.jpg" width="450px"><br/> Pinout</a>
+<a href="#"><img src="./resources/unit_pinout_v_0_0_2_ue0068_bmi270_en.png" width="450px"><br/> Pinout</a>
 
 ## Description
 
