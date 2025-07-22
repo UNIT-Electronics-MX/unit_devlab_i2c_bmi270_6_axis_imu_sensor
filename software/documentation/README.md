@@ -97,8 +97,7 @@ The BMI270 sensor module combines a 16-bit accelerometer and a 16-bit gyroscope 
 Works with:
 
 - Arduino and ESP32 boards (via I2C/SPI)
-- STM32, RP2040, and other ARM-based MCUs
-- MicroPython and C/C++ SDKs
+- MicroPython
 - Inertial navigation algorithms
 
 ## Downloads
