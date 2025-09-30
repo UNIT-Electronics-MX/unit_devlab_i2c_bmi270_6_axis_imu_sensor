@@ -1,9 +1,19 @@
 # Hardware
 
-<a href="#"><img src="./resources/Schematics_icon.jpg" width="450px"><br/> Schematic</a>
+<div align="center">
+    <a href="./unit_sch_V_0_0_1_ue0068_bmi270.pdf"><img src="./resources/Schematics_icon.jpg" width="500px"><br/>Schematics</a>
+    <br/>
+
+</div>
+
 
 ## Pinout
-<a href="#"><img src="./resources/unit_pinout_v_0_0_2_ue0068_bmi270_en.png" width="450px"><br/> Pinout</a>
+
+<div align="center">
+    <a href="./unit_pinout_v_0_0_1_ue0068_bmi270_en.pdf"><img src="./resources/unit_pinout_v_0_0_1_ue0068_bmi270_en.jpg" width="500px"><br/>Pinout</a>
+    <br/>
+
+</div>
 
 ## Description
 
@@ -39,11 +49,21 @@
 
 ## Dimensions
 
-<a href="#"><img src="./resources/unit_dimension_v_1_0_ue0068_bmi270.png" width="500px"><br/> Dimensions</a>
+<div align="center">
+    <a href="#"><img src="./resources/unit_dimension_v_1_0_ue0068_bmi270.png" width="500px"><br/>Dimensions</a>
+    <br/> <br/>
+
+</div>
+
 
 ## Topology
 
-<a href="#"><img src="./resources/unit_topology_v_1_0_ue0068_bmi270.png" width="500px"><br/>Topology</a>
+<div align="center">
+    <a href="#"><img src="./resources/unit_topology_v_1_0_ue0068_bmi270.png" width="500px"><br/>Topology</a>
+    <br/> <br/>
+
+</div>
+
 
 | Ref.  | Description                                                                 |
 |-------|-----------------------------------------------------------------------------|
