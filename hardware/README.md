@@ -15,7 +15,7 @@ This section contains all hardware documentation, schematics, pinouts, and techn
 ## Pinout
 
 <div align="center">
-    <a href="./unit_pinout_v_0_0_1_ue0068_bmi270_en.pdf"><img src="./resources/unit_pinout_v_0_0_1_ue0068_bmi270_en.jpg" width="500px"><br/>Pinout</a>
+    <a href="./unit_pinout_v_0_0_3_ue0068_bmi270_en.pdf"><img src="./resources/unit_pinout_v_0_0_3_ue0068_bmi270_en.jpg" width="500px"><br/>Pinout</a>
     <br/>
 
 </div>
