@@ -1,17 +1,17 @@
-name: Copy Hardware Documentation
+name: Build and Deploy Documentation
 
 on:
   push:
     branches: [ main ]
     paths:
       - 'hardware/**'
-  workflow_dispatch: # Permite ejecutar manualmente
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  copy-hardware-docs:
+  build-and-deploy:
     runs-on: ubuntu-latest
     
     steps:
@@ -40,15 +40,14 @@ jobs:
         chmod +x .github/scripts/build_docs.sh
         .github/scripts/build_docs.sh
         
-    - name: Commit and push changes
-      if: github.event_name != 'pull_request'
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add docs/
-        if [ -n "$(git status --porcelain)" ]; then
-          git commit -m "Auto-update hardware documentation [skip ci]"
-          git push
-        else
-          echo "No changes to commit"
-        fi
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./docs
+        publish_branch: gh-pages
+        force_orphan: false
+        keep_files: false
+        enable_jekyll: false
+        user_name: 'github-actions[bot]'
+        user_email: 'github-actions[bot]@users.noreply.github.com'
