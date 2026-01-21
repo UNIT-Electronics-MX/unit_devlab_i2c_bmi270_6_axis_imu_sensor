@@ -1,4 +1,4 @@
-# Hardware
+# Hardware Documentation
 
 <div align="center">
     <a href="./unit_sch_V_0_0_1_ue0068_bmi270.pdf"><img src="./resources/Schematics_icon.jpg" width="500px"><br/>Schematics</a>
